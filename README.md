@@ -12,7 +12,7 @@ Sumário:
 * Aula 6 - Introdução ao Pandas: Manipulando dados
 * Aula 7 - Mini projetos de final de curso: aqui são apresentados 4 pequenos projetos desenvolvidos durante o cursos, são eles:
   * Gerenciador de frequência
-    * Veja a interface: [Interface](Imagem_gerenciador_frequencia.png)
+    * Veja a interface: ![Interface](Imagem_gerenciador_frequencia.png)
   * Gerenciador de listas de tarefas
   * Conversão entre escalas termométricas
   * Jogo de adivinhar
